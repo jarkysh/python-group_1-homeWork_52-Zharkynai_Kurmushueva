@@ -1,0 +1,31 @@
+#leftSaidbar {
+    position: absolute;
+    top: 10%;
+    height: 75%;
+    background-color: #666666;
+    width: 12%;
+    display: block;
+    margin-right: 0%;
+    float: left;
+}
+
+
+p.Saidbar {
+    width: 100%;
+    background-color: #6622aa;
+    border-width: 3px;
+    border-style: inset;
+    border-radius: 20%;
+    color: #33ff11;
+    font-family: "System";
+    font-size: 3vh;
+
+}
+a.Saidbar {
+    background-color: rgba(102, 102, 102, 0);
+    width: 100%;
+    background-color: rgba(102, 34, 170, 0.15);
+    font-family: "System";
+    font-size: 3vh;
+    display: inline-flex;
+}

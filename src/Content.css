@@ -1,0 +1,43 @@
+article {
+
+    width:80%;
+    background-color: #aaaaaa;
+    height: 37vh;
+    margin-right: 1%;
+    display: inline-block;
+    border-width: 5px;
+    border-color: #0e1d44;
+
+}
+content {
+    position: absolute;
+    width: 90%;
+    top: 10%;
+    left: 12%;
+    height: 75%;
+    float: top;
+}
+.cont{
+    display: inline-flex;
+    align-items: stretch;
+    flex-flow: row nowrap;
+    height: 100%;
+
+
+}
+h2.article {
+    color: #4444aa;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+p.article {
+    color: #2222ff;
+}
+button.article {
+    width: 30%;
+    height: 15%;
+    background-color: #336080;
+    font-size: 3vh;
+    font-family: 'Impact';
+    color: #ffffff;
+}
